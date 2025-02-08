@@ -1,67 +1,69 @@
-🌱 Gabriel Green Garden House
+# 🌱 Gabriel Green Garden House
 
-📌 Project Overview
+## 📌 Project Overview
 
-Gabriel Green Garden House is a gardening website that provides information on plants, gardening techniques, and ways to contact experts for assistance. The project includes multiple sections covering different aspects of gardening, making it an informative and user-friendly experience.
+**Gabriel Green Garden House** is an interactive gardening website that provides valuable information on plants, gardening techniques, and expert consultation. Designed with a user-friendly interface, this project offers multiple sections covering different aspects of gardening, making it both informative and visually appealing.
 
-This project was developed as a college assignment, demonstrating skills in responsive web design and structured content presentation.
+This project was developed as a college assignment, showcasing expertise in responsive web design, structured content organization, and user engagement.
 
-🚀 Features
+## 🚀 Features
 
-🌿 Plants Page: Showcases different types of plants with descriptions and images.
+- 🌿 **Plants Page** – Explore different plant species with detailed descriptions and high-quality images.
+- 🏡 **Gardening Tips** – Learn various gardening techniques and best practices.
+- 📬 **Contact Page** – Users can easily reach out for professional gardening assistance.
+- 📱 **Responsive Design** – Ensures seamless viewing on different screen sizes.
+- 🎨 **Modern Styling** – Uses CSS for a clean, visually appealing layout and smooth user experience.
 
-🏡 Gardening Page: Provides gardening tips and techniques.
+## 📂 Project Structure
 
-📬 Contact Page: Allows users to reach out for more information.
-
-📱 Responsive Design: Optimized for different screen sizes.
-
-🎨 Styled Layout: Uses CSS for a visually appealing and structured presentation.
-
-📂 Project Structure
-
+```
 📁 gabriel_green_garden_house
- ├── 📁 css/                # Stylesheets
- │   ├── site.css          # Main styling file
- ├── 📁 imgs/               # Image assets
- ├── 📁 webpages/           # Webpages for different sections
- │   ├── index.html        # Homepage
- │   ├── plants.html       # Information about plants
- │   ├── gardening.html    # Gardening tips
- │   ├── contact.html      # Contact form and team details
+ ├── 📁 css/               # Stylesheets
+ │   ├── site.css         # Main styling file
+ ├── 📁 imgs/              # Image assets
+ ├── 📁 pages/             # Webpages for different sections
+ │   ├── index.html       # Homepage
+ │   ├── plants.html      # Plant descriptions and images
+ │   ├── gardening.html   # Gardening tips and best practices
+ │   ├── contact.html     # Contact form and team details
+```
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
-HTML5: Structure of the website.
+- **HTML5** – Defines the structure and content of the site.
+- **CSS3** – Enhances the visual presentation and layout.
+- **Responsive Web Design** – Uses Flexbox and Grid techniques for adaptability across devices.
 
-CSS3: Styling and responsive design.
+## 📌 Prerequisites
 
-Responsive Web Design: Grid and flexbox techniques for adaptability.
+To run the project, ensure you have:
 
-📌 Prerequisites
+- A modern web browser (Chrome, Firefox, Edge, etc.).
 
-To view the website, ensure you have:
+## 🏃‍♂️ How to Run the Project
 
-A modern web browser (Chrome, Firefox, Edge, etc.).
+1️⃣ Open `index.html` in a web browser.
 
-🏃‍♂️ How to Run the Project
+2️⃣ Navigate through the site using the intuitive menu.
 
-1️⃣ Open index.html in a web browser.
+## 🎯 Project Purpose
 
-2️⃣ Navigate through the site using the menu.
+This project was created as part of a college assignment, allowing me to:
 
-🎯 Project Purpose
+- Implement **HTML & CSS** for structured and engaging content.
+- Design a fully **responsive layout** for seamless accessibility.
+- Develop a **user-friendly navigation system** to enhance the browsing experience.
 
-This project was created as part of a college assignment, allowing me to practice:
+## 🎭 Screenshots  
 
-HTML & CSS for structured content presentation.
+| Gabriel Green Garden House |  
+|--------------|  
+| ![Gabriel Green Garden House](imgs/github/gabriel-green-garden-house.png) |  
 
-Designing a fully responsive layout.
-
-Implementing a clean and accessible navigation system.
-
-📜 License
+## 📜 License
 
 This project was developed for educational purposes as part of a college assignment.
 
-💼 Author: Juan Jacobo Florez Monroy | 🚀 Portfolio: [Portfolio Website or GitHub]
+---
+
+💼 **Author:** Juan Jacobo Florez Monroy  | 🚀 **GitHub:** [GitHub](https://github.com/jjacoboflorez95)
